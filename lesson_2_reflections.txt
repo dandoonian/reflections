@@ -9,3 +9,7 @@ it's a group of files to track.. before committing.. so it contains our current 
 How can you use the staging area to make sure you have one commit per logical change?
 
 by commiting frequently
+
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+ when we want to try something that is different than the main version of my project.. branch will be a parallel version running on its own..
