@@ -13,3 +13,11 @@ by commiting frequently
  What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
  when we want to try something that is different than the main version of my project.. branch will be a parallel version running on its own..
+
+ How do the diagrams help you visualize the branch structure?
+
+ by drawing the tree of commits
+
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+ all commits from both branches.. will be merged together by timestamp.. because it's easier to represent!
