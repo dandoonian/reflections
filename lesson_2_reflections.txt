@@ -21,3 +21,7 @@ by commiting frequently
  What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
  all commits from both branches.. will be merged together by timestamp.. because it's easier to represent!
+
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+sometimes merge will fail in automatic mode.. and manual merge are very hard to do!
