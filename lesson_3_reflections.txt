@@ -12,3 +12,6 @@ i use branch when i want to make a new feature
 clone when i want to duplicate an existing repository (online or local)
 fork is when i wanna duplicate an existing repository on github to my github to keep the credits
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+to know if we should merge or commit new updates.
